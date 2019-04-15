@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+.top_container .top_content {
+  position: absolute;
+  top: 20%;
+  left: 60%;
+  color: white;
+  text-align: center;
+}
