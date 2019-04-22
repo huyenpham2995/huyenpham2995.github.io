@@ -1,11 +1,37 @@
 body {
   margin: 0;
+  text-align: center;
+  font-family: 'EB Garamond', serif;
 }
 
-.top_container .top_content {
+.top_container img{
+  position: relative;
+  width: 100%;
+}
+
+h1 {
+  margin: 30px auto 10px;
+font-size: 5rem;
+font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+font-family: 'ABeeZee', sans-serif;
+}
+
+h3 {
+font-family: 'ABeeZee', sans-serif;
+}
+
+.top_content {
   position: absolute;
-  top: 20%;
-  left: 60%;
+  top: 0;
+  left: 40%;
   color: white;
-  text-align: center;
+  font-size: 2rem;
+}
+
+.skill-row {
+  position: absolute;
+  width: 50%;
 }
