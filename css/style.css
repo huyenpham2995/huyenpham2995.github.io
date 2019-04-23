@@ -10,7 +10,7 @@ table {
   text-align: left;
 }
 
-.top_container img {
+.top-container .background {
   position: relative;
   width: 100%;
 }
@@ -53,12 +53,16 @@ a:hover {
   color: white;
 }
 
-.top_content {
+.top-content {
   position: absolute;
   top: 0;
   left: 35%;
   color: white;
   font-size: 2rem;
+}
+
+.profile img {
+border-radius: 50%;
 }
 
 .skills {
