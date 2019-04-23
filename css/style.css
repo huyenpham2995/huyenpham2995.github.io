@@ -56,7 +56,7 @@ a:hover {
 .top_content {
   position: absolute;
   top: 0;
-  left: 40%;
+  left: 35%;
   color: white;
   font-size: 2rem;
 }
@@ -73,6 +73,10 @@ a:hover {
 }
 
 .programmer {
+margin-bottom: 0;
+}
+
+.developer {
   float: left;
   margin-right: 30px;
 }
